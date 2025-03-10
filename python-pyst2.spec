@@ -8,7 +8,7 @@
 Summary:	A Python Interface to Asterisk
 Name:		python-pyst2
 Version:	0.5.0
-Release:	6
+Release:	7
 License:	PSF
 Group:		Libraries/Python
 Source0:	https://github.com/rdegges/pyst2/archive/%{version}.tar.gz
